@@ -40,7 +40,7 @@
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#" target="_blank">Visit Site</a></li>
+                <li><a href="#" target="_blank"><i class="glyphicon glyphicon-globe"></i> Visit Site</a></li>
 
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
