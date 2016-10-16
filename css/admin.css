@@ -376,3 +376,7 @@ h1.page-header {
     font-size: 36px;
     font-weight: bold;
 }
+
+.panel-default > .panel-heading {
+    background: #ddd;
+}

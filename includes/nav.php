@@ -40,10 +40,25 @@
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="http://www.pingpong-labs.com" target="_blank">Visit Site</a></li>
+                <li><a href="#" target="_blank">Visit Site</a></li>
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        <i class="glyphicon glyphicon-bullhorn"></i>
+                        <b class="caret"></b>
+                        <span class="badge">4</span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#">Notification 1</a></li>
+                        <li><a href="#">Notification 2</a></li>
+                        <li><a href="#">Notification 3</a></li>
+                        <li><a href="#">Notification 4</a></li>
+                    </ul>
+                </li>
+
                 <li class="dropdown ">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-                        Account
+                        <i class="glyphicon glyphicon-user"></i> Account
                         <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
                         <li class="dropdown-header">SETTINGS</li>
@@ -51,7 +66,7 @@
                         <li class=""><a href="#">Other Link</a></li>
                         <li class=""><a href="#">Other Link</a></li>
                         <li class="divider"></li>
-                        <li><a href="#">Logout</a></li>
+                        <li><a href="#"><i class="glyphicon glyphicon-log-out"></i> Logout</a></li>
                     </ul>
                 </li>
             </ul>

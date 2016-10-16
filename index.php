@@ -10,7 +10,12 @@
             <div class="panel-heading">
                 <b class="fa fa-th-large"></b> Dashboard
             </div>
+            <ol class="breadcrumb">
+                <li><a href="#">Home</a></li>
+                <li class="active">Dashboard</li>
+            </ol>
             <div class="panel-body animated fadeIn">
+
                 <!-- page content -->
                 <?php require_once 'pages/dashboard.php' ?>
             </div>
