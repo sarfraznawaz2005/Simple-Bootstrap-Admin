@@ -62,9 +62,7 @@
                         <span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
                         <li class="dropdown-header">SETTINGS</li>
-                        <li class=""><a href="#">Other Link</a></li>
-                        <li class=""><a href="#">Other Link</a></li>
-                        <li class=""><a href="#">Other Link</a></li>
+                        <li class=""><a href="#"><i class="glyphicon glyphicon-edit"></i> Edit Profile</a></li>
                         <li class="divider"></li>
                         <li><a href="#"><i class="glyphicon glyphicon-log-out"></i> Logout</a></li>
                     </ul>
