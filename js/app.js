@@ -5,6 +5,9 @@ $(function () {
         $('.side-body').toggleClass('body-slide-in');
     });
 
+    // hide loader
+    $('.loading-indicator-with-overlay').hide();
+
     // BTS Popover
     $('[rel="popover"]').addClass('text-primary').popover({"trigger": "hover", "html": true});
 

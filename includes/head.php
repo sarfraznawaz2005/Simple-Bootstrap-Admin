@@ -10,4 +10,5 @@
     <link href="css/plugins/checkbox3.min.css" rel="stylesheet">
     <link href="css/plugins/animate.css" rel="stylesheet">
     <link href="css/admin.css" rel="stylesheet">
+    <link href="css/loader.css" rel="stylesheet">
 </head>

@@ -15,7 +15,8 @@
                 <li class="active">Dashboard</li>
             </ol>
             <div class="panel-body animated fadeIn">
-
+                <div class="loading-indicator-with-overlay">Loading&#8230;</div>
+                
                 <!-- page content -->
                 <?php require_once 'pages/dashboard.php' ?>
             </div>
