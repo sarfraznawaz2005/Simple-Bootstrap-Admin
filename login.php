@@ -46,6 +46,9 @@
 
                 </div>
             </div>
+            <div class="well text-center">
+                <strong><i class="fa fa-info-circle"></i> Don't have an account? <a href="#">Register !</a></strong>
+            </div>
         </div>
     </div>
 </div>
